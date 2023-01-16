@@ -1,0 +1,15 @@
+
+
+線路
+https://2.bp.blogspot.com/-xIJ0zsZ1RJA/We2JFRkyEcI/AAAAAAAAI2k/twVqAs7YhxcP6LH6uNkvkal68bZ8uMY_ACLcBGAs/s1600/433MHz_RF_module_pinout.jpg
+
+
+#######若缺乏模組就把rc-switch-2.6.4壓成ZIP 加到arduino裡面#########
+
+1.先用./rc-switch-2.6.4/examples/ReceiveDemo取得16進制code    ->接收器接4號腳
+
+
+
+2.修改./rc-switch-2.6.4/examples/SendDemo 修改36行Code
+
+3.測試
